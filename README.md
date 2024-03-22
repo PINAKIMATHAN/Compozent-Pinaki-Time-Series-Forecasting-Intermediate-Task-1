@@ -1,2 +1,4 @@
 # Compozent-Pinaki-Time-Series-Forecasting-Intermediate-Task-1
 Compozent-Pinaki-Time-Series-Forecasting-Intermediate-Task-1
+
+During my tenure as an intern, I had the privilege of delving into the captivating realm of Time Series Forecasting within the domain of ML/AI. Through diligent research and hands-on experimentation, I navigated the complexities of temporal data analysis, leveraging advanced machine learning algorithms to predict future trends and patterns with precision. This internship provided a fertile ground for me to hone my analytical skills, refine my understanding of data-driven methodologies, and cultivate a keen intuition for interpreting temporal dynamics. Armed with newfound insights and practical experience, I am poised to embark on the next phase of my journey, equipped with the invaluable lessons learned during this enriching internship as per the task of Compozent i.e., ML & AI ----INTERMEDIATE TASK-1.
